@@ -7,7 +7,6 @@
 **Team Members:** Ayush Agarwal, Yash Sharma, Jatin Dangi, Daksh Kedia  
 **Roll Numbers:** 24UCC171, 24UCC172, 24UCC173, 24UCC174  
 **Development Model:** Agile - Iterative and Incremental Development  
-**Date:** 20 September 2026  
 
 ---
 
