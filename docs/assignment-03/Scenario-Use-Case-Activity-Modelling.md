@@ -55,7 +55,7 @@ flowchart TD
 ```mermaid
 flowchart TD
     A["Student: Navigate to Request Transcript"] --> B["System: Display request form"]
-    B --> C["Student: Select type Official/Unofficial and submit"]
+    B --> C["Student: Select transcript type and submit"]
     C --> D["System: Validate record completeness and verification"]
     D --> E["System: Calculate final GPA and create request record"]
     E --> F["System: Queue in Academic Office pending requests"]
